@@ -1,9 +1,9 @@
 ---
-title: MyLUH privacy policy
+title: MyLUH Android privacy policy
 layout: default
 ---
 
-# MyLUH privacy policy
+# MyLUH Android privacy policy
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. 
 
